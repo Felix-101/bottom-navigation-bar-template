@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:bottom_navigation/exports.dart';
 
 class BottomNavScreen extends StatefulWidget {
   const BottomNavScreen({super.key});
