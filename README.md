@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # bottom_navigation
 
 A new Flutter project.
@@ -17,20 +18,36 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # bottom-navigation-bar-template
+=======
+this istheread me file
+bottom-navigation-bar-template
+>>>>>>> 37c8f3aed4ced69a723676b939f7e1f2717a4a87
 A customizable Flutter Bottom Navigation Bar implementation featuring five navigation items with smooth state transitions and Material Design styling.
 
-##Features
-Five navigation items: Home, Search, Favorite, Settings, and Person
-Custom color scheme with light blue background
-Smooth state transitions using setState
-Material Design compliant implementation
-Responsive layout with proper spacing
+##Features Five navigation items: Home, Search, Favorite, Settings, and Person Custom color scheme with light blue background Smooth state transitions using setState Material Design compliant implementation Responsive layout with proper spacing
 
-##Installation
-run flutter pub get
-Add this to your pubspec.yaml file:
+##Installation run flutter pub get Add this to your pubspec.yaml file:
 
+dependencies: flutter: sdk: flutter curved_navigation_bar:
+=======
+# bottom-navigation-bar-template
 
+A customizable Flutter Bottom Navigation Bar implementation featuring five navigation items with smooth state transitions and Material Design styling.
+
+## Features
+
+- Five navigation items: Home, Search, Favorite, Settings, and Person
+- Custom color scheme with light blue background
+- Smooth state transitions using setState
+- Material Design compliant implementation
+- Responsive layout with proper spacing
+
+## Installation
+
+1. Run `flutter pub get`
+2. Add this to your `pubspec.yaml` file:
+
+```yaml
 dependencies:
   flutter:
     sdk: flutter
